@@ -1,0 +1,38 @@
+GDawg
+black
+ifenemy 3        
+go 5
+infect
+go 1
+ifenemy 1         
+left
+ifenemy 1
+left
+ifwall 15     
+ifrandom 13   
+left
+go 7  
+hop
+go 7  
+left          
+ifenemy 1
+ifsame 20   
+left
+go 7
+ifenemy 1      
+ifempty 25  
+left
+go 28
+infect
+ifrandom 28
+hop
+go 1
+ifrandom 28
+ifrandom 28
+ifrandom 28
+ifrandom 28
+go 1
+
+
+The GDawg will anhilate anyone that comes into its path. Watch out.
+
